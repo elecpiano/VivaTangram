@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sequential",
+    "texture": "d09dd509-27e2-42fc-a3ce-1d9d6ace320c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      98,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

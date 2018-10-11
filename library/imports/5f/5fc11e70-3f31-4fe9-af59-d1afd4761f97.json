@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PageNext",
+    "texture": "2d6e43ab-5cb7-4205-b742-390f54351433",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      98,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

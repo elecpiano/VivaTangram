@@ -1,0 +1,1001 @@
+﻿1,1,1
+2,2,2
+3,3,3
+4,4,4
+5,5,5
+6,6,6
+7,7,7
+8,8,8
+9,9,9
+0,0,0
+a,a,A
+b,b,B
+c,c,C
+d,d,D
+e,e,E
+f,f,F
+g,g,G
+h,h,H
+i,i,I
+j,j,J
+k,k,K
+l,l,L
+m,m,M
+n,n,N
+o,o,O
+p,p,P
+q,q,Q
+r,r,R
+s,s,S
+t,t,T
+u,u,U
+v,v,V
+w,w,W
+x,x,X
+y,y,Y
+z,z,Z
+square,Square,正方形
+triangle,Triangle,三角形
+hexagon,Hexagon,六边形
+isosceles_trapezoid,Isosceles trapezoid,等腰梯形
+parallelogram,Parallelogram,平行四边形
+trapezoid,Trapezoid,梯形
+rectangle,Rectangle,长方形
+pentagons,Pentagons,五边形
+heart_shaped,Heart-shaped,心形
+pentagram,Pentagram,五角星
+arrow,Arrow,箭头
+arrow1,Arrow,箭头
+shape1,Shape,形状
+shape2,Shape,形状
+shape3,Shape,形状
+shape4,Shape,形状
+chef,Chef,厨师
+lantern,Lantern,提灯笼
+bodybuilder,Bodybuilder,健美的人
+slam_dunk,Slam dunk,灌篮高手
+dress,Dress,礼服
+dame,Dame,贵妇人
+priest,Priest,牧师
+zombie,Zombie,僵尸
+sitting_people,Sitting people,坐着的人
+prayer,Prayer,祈祷
+embrace,Embrace,拥抱
+maid,Maid,侍女
+slip,Slip,滑倒
+old_man,Old man,老年人
+dress1,Dress,长裙
+propose,Propose,求婚
+send_a_gift,Send a Gift,送礼物
+thief,Thief,小偷
+fisherman,Fisherman,渔夫
+mermaid,Mermaid,美人鱼
+trapeze,Trapeze,空中飞人
+walk,Walk,走路
+lady,Lady,女士
+read,Read,看书
+kimono,Kimono,和服
+take_off,Take off,起飞
+flower,Flower,献花
+look_up,Look up,仰望
+athlete,Athlete,运动员
+chiefs,Chiefs,酋长
+morning_exercises,morning exercises,早操
+stoop,Stoop,弯腰
+couple,Couple,情侣
+mother_child,Mother and child,母子
+female,Female,女
+male,Male,男
+surrender,Surrender,投降
+alien,Alien,外星人
+astronaut,Astronaut,宇航员
+acrobat,Acrobat,杂技
+clown,Clown,小丑
+camelry,Camelry,骆驼骑兵
+batman,Batman,蝙蝠侠
+pope,Pope,教皇
+child3,Child,儿童
+person11,Person,人
+princess,Princess,公主
+king,King,国王
+prince,Prince,王子
+queen,Queen,皇后
+pharaoh,Pharaoh,法老
+mummy,Mummy,木乃伊
+traffic_police,Traffic police,交通警察
+police,Police,警察
+monk,Monk,和尚
+rest,Rest,休息
+handstand,Handstand,倒立
+waiter,Waiter,侍者
+person,Person,人
+person3,Person,人
+knight,Knight,骑士
+sacrifice,Sacrifice,祭祀
+person4,Person,人
+person1,Person,人
+person2,Person,人
+child,Child,儿童
+courier,Courier,快递员
+tumble,Tumble,摔倒
+geisha,Geisha,艺伎
+person10,Person,人
+pekingopera,Peking Opera,京剧
+traditionalopera,Traditional opera,戏曲
+bunnygirl,Bunny Girl,兔女孩
+figure_skating,Figure skating,花样滑冰
+hurdle,Hurdle,跨栏
+race,Race,赛跑
+sit_ups,Sit-ups,仰卧起坐
+walking,Walking,散步
+aerobics,Aerobics,健美操
+yoga,Yoga,瑜伽
+dance1,Dance,舞蹈
+fitness,Fitness,健身
+run,Run,奔跑
+climbing,Climbing,爬山
+dance2,Dance,舞蹈
+wushu,Wushu,武术
+dance,Dance,舞蹈
+rhythmic_gymnastics,Rhythmic Gymnastics,艺术体操
+taekwondo,Taekwondo,跆拳道
+gymnastics,Gymnastics,体操
+equestrian,Equestrian,马术
+freestyle,Freestyle,自由泳
+breaststroke,Breaststroke,蛙泳
+butterfly_stroke,Butterfly stroke,蝶泳
+backstroke,Backstroke,仰泳
+archery,Archery,射箭
+fencing,Fencing,击剑
+golf,Golf,高尔夫
+badminton,Badminton,羽毛球
+tennis,Tennis,网球
+diving,Diving,跳水
+race_walking,Race Walking,竞走
+volleyball,Volleyball,排球
+basketball,Basketball,篮球
+wrestling,Wrestling,摔跤
+sport,Sport,运动
+karate,Karate,空手道
+rugby,Rugby,橄榄球
+curling,Curling,掷冰壶
+table_tennis,Table tennis,乒乓球
+baseball,Baseball,棒球
+cue_sport,Cue sport,台球
+softball,Softball,垒球
+squash,Squash,壁球
+hammer1,Hammer,掷链球
+shot_put,Shot-put,铅球
+horse_vaulting,Horse-vaulting,跳马
+javelin,Javelin,标枪
+trampoline,Trampoline,蹦床
+jai_alai,Jai alai,回力球
+snowboarding,Snowboarding,单板滑雪
+synchronised_swimming,Synchronised swimming,水上芭蕾
+football,Football,足球
+hockey,Hockey,曲棍球
+ice_hockey,Ice hockey,冰球
+bowling,Bowling,保龄球
+athletics,Athletics,田径
+water_polo,Water polo,水球
+speed_skating,Speed skating,速度滑冰
+wushu1,Wushu,武术
+sport3,Sport,运动
+ballet,ballet,芭蕾舞
+latin_dance,Latin dance,拉丁舞
+dance5,Dance,舞蹈
+dance6,Dance,舞蹈
+dance7,Dance,舞蹈
+dance8,Dance,舞蹈
+moonwalk,Moonwalk,太空步
+dance9,Dance,舞蹈
+dance10,Dance,舞蹈
+dance11,Dance,舞蹈
+freestyle22,Street dance,街舞
+dance13,Dance,舞蹈
+dance14,Dance,舞蹈
+dance15,Dance,舞蹈
+kongfu-23,KongFu,功夫
+taichi,Tai Chi,太极
+kongfu1-25,KongFu,功夫
+modern_dance,Modern dance ,现代舞
+jazz,Jazz,爵士舞
+dance16,Dance,舞蹈
+dance17,Dance,舞蹈
+dance18,Dance,舞蹈
+run1,Run,奔跑
+poplar,Poplar,杨树
+tree5,Tree,树
+tree1,Tree,树
+tree2,Tree,树
+tree3,Tree,树
+tree4,Tree,树
+pine,Pine,松树
+eucalyptus,Eucalyptus,桉树
+spruce,Spruce,云杉
+christmas_tree,Christmas tree,圣诞树
+epiphyllum,Epiphyllum,昙花
+tree_house,Tree house,树屋
+mushroom,Mushroom,香菇
+mushroom1,Mushroom,蘑菇
+mushroom2,Mushroom,蘑菇
+mushroom3,Mushroom,蘑菇
+coconut_tree,Coconut tree,椰子树
+mountains,Mountains,山脉
+lotus,Lotus,莲花
+bud,Bud,花苞
+mountain_peak,Mountain peak,山峰
+peak,Peak,山顶
+calabash_gourd,Calabash Gourd,葫芦
+flower16,Flower,花
+narcissus,Narcissus,水仙
+flower1,Flower,花
+lily,Lily,百合
+flower2,Flower,花
+violet,Violet,紫罗兰
+rose,Rose,玫瑰
+flower3,Flower,花
+flower4,Flower,花
+flower5,Flower,花
+flower6,Flower,花
+carnation,Carnation,康乃馨
+flower7,Flower,花
+cyclamen,Cyclamen,仙客来
+flower8,Flower,花
+calla,Calla,马蹄莲
+flower9,Flower,花
+lilac,Lilac,丁香
+babysbreath,Babysbreath,满天星
+flower10,Flower,花
+flower11,Flower,花
+tulip,Tulip,郁金香
+plants9,Plants,植物
+tree6,Tree,树
+plants10,Plants,植物
+lavender,Lavender,薰衣草
+flower12,Flower,花
+plants,Plants,植物
+plants1,Plants,植物
+plants2,Plants,植物
+plants3,Plants,植物
+flower13,Flower,花
+plants4,Plants,植物
+plants5,Plants,植物
+magnolia,Magnolia,玉兰
+crape_myrtle,Crape myrtle,紫薇
+malus,Malus,海棠
+common_camellia,Common Camellia,茶花
+tree7,Tree,树
+plants6,Plants,植物
+aloe,Aloe,芦荟
+bracketplant,Bracketplant,吊兰
+peony,Peony,牡丹
+flower14,Flower,花
+plants7,Plants,植物
+plants8,Plants,植物
+hibiscus,Hibiscus,芙蓉
+flower15,Flower,花
+sweet_olive,Sweet olive,桂花
+tree,Tree,树
+filter_pot,Filter pot,过滤壶
+kettle-02,Kettle,水壶
+teapot,Teapot,茶壶
+sprinkle_water_bottle,Sprinkle water bottle,洒水壶
+kettle-05,Kettle,暖水壶
+microscope,Microscope,显微镜
+clothes,Clothes,衣服
+high_heels,High heels,高跟鞋
+table_lamp,Table lamp,台灯
+bedside_lamp,Bedside lamp,床头灯
+eye_protection,Eye protection,护眼灯
+fruit_dish,Fruit dish,果盘
+candlestick,Candlestick,烛台
+flower_pot,Flower pot,花盆
+goblet,Goblet,高脚杯
+fruit_cup,Fruit cup,水果杯
+kite,Kite,风筝
+brush,Brush,刷子
+kite1,Kite,风筝
+double_tent,Double tent,双人帐篷
+tent,Tent,帐篷
+dagger,Dagger,匕首
+pistol,Pistol,手枪
+funnel,Funnel,漏斗
+hammer,Hammer,锤子
+axe,Axe,斧头
+vcr,VCR,录像机
+camera,Camera,摄影机
+vase,Vase,花瓶
+potted_plants,Potted plants,盆栽
+sword,Sword,剑
+knife,Knife,刀
+torch,Torch,火炬
+diamond,Diamond,钻石
+electric_drill,Electric drill,电钻
+hot_pot,Hot Pot,火锅
+bowl,Bowl,碗
+trophy,Trophy,奖杯
+windmill,Windmill,风车
+baby_carriage,Baby carriage,婴儿车
+earthen_jar,Earthen jar,坛子
+pipe,Pipe,烟斗
+sugar,Sugar,糖
+phone,Phone,电话
+oil_lamp,Oil lamp,油灯
+door,Door,门
+door_lock,Door lock,门锁
+perfume,Perfume,香水
+gift,Gift,礼物
+chair,Chair,靠椅
+tent6,Tent,帐篷
+kettle-52,Kettle,壶
+kettle1,Kettle,壶
+kettle2,Kettle,壶
+kettle3,Kettle,壶
+cap,Cap,帽子
+cap1,Cap,帽子
+lantern1,Lantern,灯笼
+pig_trotter,Pig trotter,猪蹄
+toy_car,Toy Car,玩具车
+ao,ao,凹
+bath,Bath,泡澡
+qi,qi,七
+t_shirt,T-shirt,T恤衫
+globe,Globe,地球仪
+bow_tie,Bow tie,领结
+pennant,Pennant,奖旗
+firecracker,Firecracker,爆竹
+balloon,Balloon,气球
+safe,Safe,保险柜
+paper_boat,Paper boat,纸船
+siren,Siren,汽笛
+street_lamp,Street lamp,路灯
+bathtub,Bathtub,浴缸
+balance,Balance,天平
+dart,Dart,飞镖
+candle,Candle,蜡烛
+paper_cranes,Paper Cranes,千纸鹤
+compasses,Compasses,圆规
+nail,Nail,钉子
+lotus_lantern,Lotus lantern,宝莲灯
+elevator,Elevator,升降机
+electric_saw,Electric saw,电锯
+iron,Iron,电熨斗
+stockpot,Stockpot,汤锅
+mask,Mask,面具
+periscope,Periscope,潜望镜
+merry_go_round,Merry-go-round,旋转木马
+roller_coaster,Roller coaster,过山车
+horse_racing,Horse racing,赛马
+bullfight1,Bullfight,斗牛
+slide,Slide,滑梯
+drumstick,Drumstick,鸡腿
+ring,Ring,戒指
+fishhook,Fishhook,鱼钩
+walking_stick,Walking stick,拐杖
+candy_cane,Candy cane,拐杖糖
+grail,Grail,圣杯
+the_gingerbread_man,The Gingerbread Man,姜饼人
+doraemon,Doraemon,机器猫
+jack,Jack,千斤顶
+robot,Robot,机器人
+magic_stick,Magic stick,魔法棒
+office_table,Office table,办公桌
+bauta,Bauta,威尼斯面具
+wall_e,Wall-E,瓦力
+council_board,Council board,会议桌
+platform,Platform,讲台
+lipstick,Lipstick,口红
+helmet,Helmet,头盔
+crown,Crown,皇冠
+wig,Wig,假发
+hobbyhorse,Hobbyhorse,摇摇木马
+greek_gift,Greek gift,特洛伊木马
+lamp,Lamp,灯
+lamp1,Lamp,灯
+lamp2,Lamp,灯
+lamp3,Lamp,灯
+lamp4,Lamp,灯
+gun,Gun,枪
+gun1,Gun,枪
+gun2,Gun,枪
+gun3,Gun,枪
+tent1,Tent,帐篷
+tent2,Tent,帐篷
+tent3,Tent,帐篷
+tent4,Tent,帐篷
+tent5,Tent,帐篷
+balloon1,Balloon,热气球
+airplane,Airplane,飞机
+rocket,Rocket,火箭
+yache,Yacht,游艇
+wooden_boat,Wooden boat,木船
+sailing,Sailing,帆船
+steamship,Steamship,轮船
+fisher,Fisher,渔船
+speedboat,Speed Boat,快艇
+canoeing,Canoeing,皮划艇
+canoe,Canoe,独木舟
+bark,Bark,多桅帆船
+helicopter,Helicopter,直升机
+boeing707,Boeing 707,波音707
+pirate_ship,Pirate ship,海盗船
+sloop,Sloop,单桅帆船
+ketch,Ketch,双桅帆船
+sailboard,Sailboard,帆板
+double_kayaks,Double Kayaks,双人艇
+multihulls,Multihulls,多体船
+canoe_sprint,Canoe sprint,轻艇
+river_junior,River Junior,激流艇
+ship,Ship,船
+icebreaker,Icebreaker,破冰船
+air_cushion_vessel,Air-cushion vessel,气垫船
+naval_vessels,Naval vessels,舰艇
+destroyer,Destroyer,驱逐舰
+cruisers,Cruisers,巡洋舰
+aircraft_carrier,Aircraft Carrier,航空母舰
+submarine,Submarine,潜艇
+liner,Liner,邮轮
+oil_tanker,Oil Tanker,油轮
+cruise,Cruise,游轮
+ship1,Ship,船
+patrol_boat,Patrol boat,护卫艇
+gunboat,Gunboat,炮艇
+nuclear_powered_submarine,Nuclear-powered submarine,核潜艇
+fighter_plane,Fighter plane,歼击机
+sampan,Sampan,舢板
+ship2,Ship,船
+ship3,Ship,船
+tug,Tug,拖船
+ship4,Ship,船
+ship5,Ship,船
+boat3,Boat,小船
+barge,Barge,驳船
+ship6,Ship,船
+ship7,Ship,船
+boat2,Boat,小船
+ship8,Ship,船
+ship9,Ship,船
+ship10,Ship,船
+ship11,Ship,船
+hospital_ship,Hospital ship,医院船
+ship12,Ship,船
+boat4,Boat,小船
+train_ferry,Train ferry,火车轮渡
+pilot_vessel,Pilot vessel,引航船
+boat5,Boat,小船
+whaling_ship,Whaling ship,捕鲸船
+boat6,Boat,小船
+boat,Boat,小船
+dragon_boat,Dragon boat,龙舟
+boat1,Boat,小船
+crane5,Crane,吊车
+loader,Loader,装载机
+excavator,Excavator,挖掘机
+blender,Blender,搅拌机
+glider,Glider,滑翔机
+unmanned_plane,Unmanned plane,无人机
+tourist_train,Tourist train,观光列车
+guided_missile,Guided missile,导弹
+grenades,Grenades,手雷
+the_black_pearl,The Black Pearl,黑珍珠号
+the_flying_dutchman,The Flying Dutchman,飞翔的荷兰人号
+queen_qnne_s_revenge,Queen Anne's Revenge,安妮女王复仇号
+rowing,Rowing,划船
+rowing1,Rowing,划船
+rowing2,Rowing,划船
+rowing3,Rowing,划船
+rowing4,Rowing,划船
+rowing5,Rowing,划船
+rowing6,Rowing,划船
+rowing7,Rowing,划船
+rowing8,Rowing,划船
+rowing9,Rowing,划船
+rowing10,Rowing,划船
+sailing1,Sailing,帆船
+sailing2,Sailing,帆船
+sailing3,Sailing,帆船
+sailing4,Sailing,帆船
+sailing5,Sailing,帆船
+sailing6,Sailing,帆船
+sailing7,Sailing,帆船
+sailing8,Sailing,帆船
+sailing9,Sailing,帆船
+sailing10,Sailing,帆船
+sailing11,Sailing,帆船
+sailing12,Sailing,帆船
+sailing13,Sailing,帆船
+vessel,Vessel,船舰
+vessel1,Vessel,船舰
+vessel2,Vessel,船舰
+vessel3,Vessel,船舰
+vessel4,Vessel,船舰
+vessel5,Vessel,船舰
+vessel6,Vessel,船舰
+cow,Cow,奶牛
+bullfight,Bullfight,斗牛
+bull,Bull,公牛
+buffalo,Buffalo,水牛
+giraffe,Giraffe,长颈鹿
+wapiti,Wapiti,麋鹿
+fox,Fox,狐狸
+kangaroo,Kangaroo,袋鼠
+goat,Goat,山羊
+antelope,Antelope,羚羊
+koala,Koala,考拉
+horse,Horse,马
+zebra,Zebra,斑马
+leopard,Leopard,豹子
+lynx,Lynx,山猫
+raccoon,Raccoon,小浣熊
+chinchilla,Chinchilla,毛丝鼠/龙猫
+cat,Cat,猫
+arctic_fox,Arctic fox,北极狐
+lioness,Lioness,母狮
+male_lion,Male lion,雄狮
+pig,Pig,猪
+squirrel,Squirrel,松鼠
+guinea_pig,Guinea pig,豚鼠/荷兰猪
+camel,Camel,骆驼
+fennec_fox,Fennec fox,沙漠狐
+hare,Hare,野兔
+rabbit,Rabbit,兔子
+rabbit1,Rabbit,兔子
+sloth,Sloth,树懒
+honey_badger,Honey badger,蜜獾
+orangutan,Orangutan,猩猩
+tiger,Tiger,老虎
+monkey3,Monkey,猴
+alpaca,Alpaca,羊驼
+chow_chow,Chow Chow,松狮犬
+polar_bear,Polar bear,北极熊
+hedgehog,Hedgehog,刺猬
+snake,Snake,蛇
+lizard,Lizard,蜥蜴
+tibetan_fox,Tibetan fox,藏狐
+hare7,Hare,野兔
+cat12,Cat,猫
+cat1,Cat,猫
+panda,Panda,大熊猫
+pig1,Pig,猪
+anteater,Anteater,食蚁兽
+pig2,Pig,猪
+dog14,Dog,狗
+swinhoe,Swinhoe,果子狸
+connochaetes_gnou,Connochaetes gnou,白尾角马
+sheep,Duck,鸭子
+pangolin,Pangolin,穿山甲
+sable,Sable,紫貂
+moose,Moose,驼鹿
+reindeer,Reindeer,驯鹿
+rat,Rat,鼠
+wolf,Wolf,狼
+monkey,Monkey,猴
+rat1,Rat,鼠
+cat2,Cat,猫
+snail,Snail,蜗牛
+hare50,Hare,野兔
+cobra,Cobra,眼镜蛇
+elephant,Elephant,象
+monkey1,Monkey,猴
+unicorn,Unicorn,独角兽
+lizard1,Lizard,蜥蜴
+lizard2,Lizard,蜥蜴
+dromedary,Dromedary,单峰驼
+dog,Dog,狗
+dog1,Dog,狗
+dog2,Dog,狗
+dog3,Dog,狗
+tibetan_mastiff,Tibetan Mastiff,藏獒
+dog4,Dog,狗
+dog5,Dog,狗
+dog6,Dog,狗
+dog7,Dog,狗
+dog8,Dog,狗
+dog9-21,Dog,狗
+guide_dog,Guide Dog,导盲犬
+cat3,Cat,猫
+cat4,Cat,猫
+dog9-25,Dog,狗
+dog10,Dog,狗
+dog11,Dog,狗
+cat5,Cat,猫
+cat6,Cat,猫
+cat7,Cat,猫
+dog111,Dog,狗
+dog12,Dog,狗
+cat8,Cat,猫
+cat9,Cat,猫
+cat10,Cat,猫
+hydropot,Hydropot,獐
+pig3,Pig,猪
+pig5,Pig,猪
+wild_yak,Wild yak,牦牛
+sheep1,Sheep,羊
+squirrel1,Squirrel,松鼠
+squirrel2,Squirrel,松鼠
+hare1,Hare,野兔
+hare2,Hare,野兔
+hare3,Hare,野兔
+hare4,Hare,野兔
+hare5,Hare,野兔
+hare6,Hare,野兔
+sheep2,Sheep,羊
+rhinos,Rhinos,犀牛
+sheep5,Sheep,羊
+eurasian_river_otter,Eurasian River Otter,水獭
+eurasian_beaver,Eurasian Beaver,河狸
+sheep3,Sheep,羊
+sheep4,Sheep,羊
+dog13,Dog,狗
+kylin,Kylin,麒麟
+cat11,Cat,猫
+fennec_fox10,Fennec Fox,耳廓狐
+bat,Bat,蝙蝠
+adder,Adder,蝰蛇
+meerkat,Meerkat,狐獴
+mountain_weasel,Mountain Weasel,香鼬
+takin,Takin,羚牛
+striped_skunk,Striped Skunk,臭鼬
+rat2,Rat,鼠
+pig4,Pig,猪
+rat3,Rat,鼠
+rat4,Rat,鼠
+rat5,Rat,鼠
+fledgling,Fledgling,雏鸟
+chicken,Chicken,雏鸡
+toucan,Toucan,巨嘴鸟
+thrush,Thrush,画眉
+quail,Quail,鹌鹑
+wild_goose,Wild goose,大雁
+oriole,Oriole,黄鹂
+sparrow,Sparrow,麻雀
+thrush2,Thrush,画眉
+pigeon-10,Pigeon,信鸽
+swallows,Swallows,燕子
+hummingbird,Hummingbird,蜂鸟
+lark-39,Lark,百灵鸟
+starling,Starling,八哥
+chook2,Chook,鸡
+hen,Hen,母鸡
+vulture,Vulture,秃鹫
+emu,Emu,鸸鹋
+seagull,Seagull,海鸥
+ostrich,Ostrich,鸵鸟
+goose,Goose,鹅
+cock,Cock,公鸡
+albatross,Albatross,信天翁
+flamingo,Flamingo,火烈鸟
+crane,Crane,鹤
+owl,Owl,猫头鹰
+eagle,Eagle,老鹰
+crow,Crow,乌鸦
+ugly_duckling,Ugly duckling,丑小鸭
+parrot,Parrot,鹦鹉
+woodpecker,Woodpecker,啄木鸟
+chook3,Chook,鸡
+turkey,Turkey,火鸡
+magpie,Magpie,喜鹊
+swan,Swan,天鹅
+pelican,Pelican,鹈鹕
+penguin,Penguin,企鹅
+emperor_penguins,Emperor penguins,帝企鹅
+lark-13,Lark,云雀
+kiwi_birds,Kiwi birds,几维鸟
+duck,Duck,鸭
+swallow,Swallow,海燕
+kingfisher,Kingfisher,翠鸟
+mandarin_duck,Mandarin duck,鸳鸯
+pigeon-45,Pigeon,鸽子
+dodo,Dodo,渡渡鸟
+bird7,Bird,鸟
+bird8,Bird,鸟
+leiothrix,Leiothrix,伯劳
+hoopoe,Hoopoe,戴胜
+frigate_bird,Frigate bird,军舰鸟
+bald_eagle,Bald Eagle,白头海雕
+bird14,Bird,鸟
+crane3,Crane,鹤
+chook,Chook,鸡
+chook1,Chook,鸡
+bird9,Bird,鸟
+bird15,Bird,鸟
+eagle1,Eagle,鹰
+eagle2,Eagle,鹰
+eagle3,Eagle,鹰
+eagle4,Eagle,鹰
+eagle5-18,Eagle,鹰
+peafowl,Peafowl,孔雀
+parrot1,Parrot,鹦鹉
+parrot2,Parrot,鹦鹉
+parrot3,Parrot,鹦鹉
+bird10,Bird,鸟
+crow1,Crow,鸦
+bird11,Bird,鸟
+eagle5-26,Eagle,鹰
+eagle6,Eagle,鹰
+eagle7,Eagle,鹰
+crow2,Crow,鸦
+bird12,Bird,鸟
+sparrow1,Sparrow,雀
+cormorant,Cormorant,鸬鹚
+chinese_francolin,Chinese Francolin,鹧鸪
+thrush1,Thrush,画眉
+bird13,Bird,鸟
+sparrow2,Sparrow,雀
+sparrow3,Sparrow,雀
+sparrow4,Sparrow,雀
+duck1,Duck,鸭
+wild_goose1,Wild goose,雁
+crane1,Crane,鹤
+gull,Gull,鸥
+duck2,Duck,鸭
+duck3,Duck,鸭
+wild_goose2,Wild goose,雁
+gull1,Gull,鸥
+crane2,Crane,鹤
+gull2,Gull,鸥
+wild_goose3,Wild goose,雁
+gull3,Gull,鸥
+gull4,Gull,鸥
+king_penguin,King Penguin,王企鹅
+penguin1,Penguin,企鹅
+bird6,Bird,鸟
+bird5,Bird,鸟
+phoenix,Phoenix,凤凰
+eagle9,Eagle,鹰
+eagle8,Eagle,鹰
+bird,Bird,鸟
+bird1,Bird,鸟
+bird2,Bird,鸟
+bird3,Bird,鸟
+bird4,Bird,鸟
+crane4,Crane,鹤
+dragonfly,Dragonfly,蜻蜓
+spider,Spider,蜘蛛
+butterfly,Butterfly,蝴蝶
+firefly,Firefly,萤火虫
+moth,Moth,飞蛾
+bee,Bee,蜜蜂
+noctuidae,Noctuidae,夜蛾
+insect8,Insect,昆虫
+silkworm_moth,Silkworm moth,蚕蛾
+mayfly,Mayfly,蜉蝣
+eurema_blanda,Eurema blanda,黄粉蝶
+japaneseworm,Worm,虫
+insect,Insect,昆虫
+walkingstick,Walkingstick,竹节虫
+cicada,Cicada,蝉
+insect1,Insect,昆虫
+millipede,Millipede,马陆
+insect2,Insect,昆虫
+scorpion,Scorpion,蝎子
+earthworm,Earthworm,蚯蚓
+silkworm_,Silkworm ,蚕
+centipede,Centipede,蜈蚣
+locusts,Locusts,蝗虫
+mantis,Mantis,螳螂
+flea,Flea,跳蚤
+mosquito,Mosquito,蚊子
+insect3,Insect,昆虫
+wiggler,Wiggler,孑孓
+insect4,Insect,昆虫
+insect5,Insect,昆虫
+kallima_inachus,Kallima inachus,枯叶蛱蝶
+caterpillar,Caterpillar,毛虫
+insect6,Insect,昆虫
+longhornedbeetles,Longhornedbeetles,天牛
+acrida,Acrida,蚱蜢
+katydid,Katydid,蝈蝈
+cricket,Cricket,蟋蟀
+insect7,Insect,昆虫
+dung_eetle,Dung Beetle,蜣螂
+seal,Seal,海豹
+sea_lion,Sea lion,海狮
+tortoise,Tortoise,乌龟
+turtle,Turtle,海龟
+hippo,Hippo,河马
+shrimp,Shrimp,虾
+crab,Crab,螃蟹
+lobster,Lobster,龙虾
+manta,Manta,蝠鲼
+fish,Fish,鱼
+carp,Carp,鲤鱼
+goldfish,Goldfish,金鱼
+dolphin,Dolphin,海豚
+killer_whale,Killer whale,虎鲸
+blue_whale,Blue whale,蓝鲸
+clownfish,Clownfish,小丑鱼
+angelfish,Angelfish,神仙鱼
+fancy_carp,Fancy carp,锦鲤
+ray,Ray,鳐鱼
+white_shark,White shark,大白鲨
+whale_shark,Whale shark,鲸鲨
+shark,Shark,鲨鱼
+arowana,Srowana,龙鱼
+butterflyfish,Butterflyfish,蝴蝶鱼
+cod,Cod,鳕鱼
+flying_fish,Flying fish,飞鱼
+lionfish,Lionfish,狮子鱼
+puffer_fish,Puffer fish,河豚
+sirenia,Sirenia,海牛
+sperm_whale,Sperm whale,抹香鲸
+flounder,Flounder,比目鱼
+piranha,Piranha,水虎鱼
+catfish,Catfish,鲶鱼
+suckermouth_catfish,Suckermouth catfish,清道夫
+grass_carp,Grass Carp,草鱼
+tilapia,Tilapia,罗非鱼
+lamprey,Lamprey,七鳃鳗
+sphyrna,Sphyrna,双髻鲨
+seahorse,Seahorse,海马
+sea_anemone,Sea anemone,海葵
+jellyfish,Jellyfish,水母
+conch,Conch,海螺
+weever,Weever,鲈鱼
+rajah_cichlasoma,Rajah Cichlasoma,罗汉鱼
+blood_parrot,Blood parrot,财神鱼
+snapper,Snapper,鲷鱼
+moorish_ido,Moorish idol,镰鱼
+fish111,Fish,鱼
+big_pacific_salmon,Big pacific-salmon,大麻哈鱼
+fish12,Fish,鱼
+sardine,Sardine,沙丁鱼
+fish13,Fish,鱼
+alaska_pollock,Alaska pollock,明太鱼
+sailfish,Sailfish,旗鱼
+fish14,Fish,鱼
+crocodile,Crocodile,鳄鱼
+king_crab,King crab,帝王蟹
+crab1,Crab,蟹
+crab2,Crab,蟹
+crab3,Crab,蟹
+crab4,Crab,蟹
+bombay_duck,Bombay duck,龙头鱼
+crab5,Crab,蟹
+red_crystal_shrimp,Red Crystal Shrimp,水晶虾
+hermit_crab,Hermit Crab,寄居蟹
+star_fish,Star Fish,海星
+spongiatia,Spongiatia,海绵
+gorgonacea,Gorgonacea,柳珊瑚
+sea_cucumber,Sea Cucumber,海参
+sea_snake,sea snake,海蛇
+fish15,Fish,鱼
+modern_horseshoe_crab,Modern Horseshoe Crab,鲎
+hawksbill_turtle,Hawksbill Turtle,玳瑁
+alligator_snapper,Alligator Snapper,鳄龟
+tadpole,Tadpole,蝌蚪
+fish11,Fish,鱼
+manta1,Manta,蝠鲼
+fish1,Fish,鱼
+fish2,Fish,鱼
+fish3,Fish,鱼
+fish4,Fish,鱼
+fish5,Fish,鱼
+fish6,Fish,鱼
+fish7,Fish,鱼
+fish8,Fish,鱼
+fish9,Fish,鱼
+fish10,Fish,鱼
+tyrannosaurus_rex,Tyrannosaurus rex,霸王龙
+plesiosauru,Plesiosauru,蛇颈龙
+dimetrodon,Dimetrodon,异齿龙
+diplodocus,Diplodocus,梁龙
+pterosauria,Pterosauria,翼龙
+triceratops,Triceratops,三角龙
+archaeornithomimus,Archaeornithomimus,古似鸟龙
+oviraptor,Oviraptor,窃蛋龙
+troodon,Troodon,伤齿龙
+supersaurus,Supersaurus,超龙
+camarasaurus,Camarasaurus,圆顶龙
+hypsilophodon,Hypsilophodon,棱齿龙
+bactrosaurus,Bactrosaurus,巴克龙
+hadrosaurs,Hadrosaurs,鸭嘴龙
+saurolophus,Saurolophus,蜥冠鳄
+corythosaurus,Corythosaurus,冠龙
+cedarpelta,Cedarpelta,雪松甲龙
+gastonia,Gastonia,加斯顿龙
+protoceratops,Protoceratops,原角龙
+homealocephale,Homealocephale,平头龙
+olorotitan,Olorotitan,扇冠大天鹅龙
+cryolophosaurus,Cryolophosaurus,冰脊龙
+albertosaurus,Albertosaurus,艾伯塔龙
+hurt_dragon,Hurt dragon,伤龙
+spinosaurus,Spinosaurus,棘龙
+gobisaurus,Gobisaurus,戈壁龙
+hoplitosaurus,Hoplitosaurus,装甲龙
+talarurus,Talarurus,篮尾龙
+tarchia,Tarchia,多智龙
+nodocephalosaurus,Nodocephalosaurus,结节头龙
+hylaeosaurus,Hylaeosaurus,森林龙
+coelurus,Coelurus,虚骨龙
+mamenchisaurus,Mamenchisaurus,马门溪龙
+nanshiungosaurus,Nanshiungosaurus,南雄龙
+chilantaisaurus,Chilantaisaurus,吉兰泰龙
+allosaurus,Allosaurus,异特龙
+saurophaganax,Saurophaganax,食蜥王龙
+styracosaurus,Styracosaurus,戟龙
+euhelopus,Euhelopus,盘足龙
+amphicoelias,Amphicoelias,双腔龙
+quetzalcoatlus,Quetzalcoatlus,风神翼龙
+brachiosaurus,Brachiosaurus,腕龙
+ichthyosauria,Ichthyosauria,鱼龙
+pliosaurus,Pliosaurus ,上龙
+giganotosaurus,Giganotosaurus,巨兽龙
+ophiacodon,Ophiacodon,蛇齿龙
+ichthyovenator,Ichthyovenator,鱼猎龙
+siamosaurus,Siamosaurus,暹罗龙
+koolasuchus,Koolasuchus,酷拉龙
+edaphosaurus,Edaphosaurus,基龙
+scutosaurus,Scutosaurus,斯龙
+becklespinax,Becklespinax,比克尔斯棘龙
+titan_ceratops,Titan ceratops,泰坦角龙
+utahceratops,Utahceratops,犹他角龙
+pteranodon,Pteranodon,无齿翼龙
+darwinopterus,Darwinopterus,达尔文翼龙
+preondactylus,Preondactylus,沛温翼龙
+pterodactylus,Pterodactylus,翼手龙
+hatzegopteryx,Hatzegopteryx,哈特兹哥翼龙
+albertonykus,Albertonykus,亚伯达爪龙
+elopteryx,Elopteryx,沼泽鸟龙
+majungatholus,Majungatholus,玛君龙
+epanterias,Epanterias,依潘龙
+stegosaurus,Stegosaurus,剑龙
+apatosaurus,Apatosaurus,雷龙
+bungalow-01,Bungalow,平房
+arch,Arch,拱门
+building,Building,楼房
+monument,Monument,纪念碑
+yurts,Yurts,蒙古包
+stadium-06,Stadium,体育场
+gazebo,Gazebo,凉亭
+cottage,Cottage,乡村小屋
+naughty_fort,Naughty Fort,淘气堡
+factory,Factory,工厂
+warehouse,Warehouse,仓库
+villa,Villa,别墅
+lighthouse,Lighthouse,灯塔
+museum,Museum,博物馆
+ten_booths,Ten booths,十里亭
+science_museum,Science Museum,科技馆
+castle,Castle,古堡
+exhibition_hall,Exhibition hall,展览馆
+bungalow-19,Bungalow,洋房
+farmhouse,Farmhouse,农家院
+sculpture,Sculpture,雕塑
+research_center,Research Center,科研中心
+spiral_tower,Spiral tower,螺旋塔
+stone_mill,Stone mill,石磨坊
+granary,Granary,粮仓
+stadium-26,Stadium,体育馆
+arena,Arena,竞技场
+bridge,Bridge,桥梁
+arc_de_triomphe,Arc de Triomphe,凯旋门
+archway,Archway,牌坊
+stairway,Stairway,楼梯
+sydney_opera_house,Sydney Opera House,悉尼歌剧院
+chinese_table,Chinese table,华表
+eiffel_tower,Eiffel Tower,埃菲尔铁塔
+rainbow_bridge,Rainbow bridge,彩虹桥
+burj_al_arab_hotel,Burj Al Arab Hotel,帆船酒店
+building1,Building,建筑
+building2,Building,建筑
+building3,Building,建筑
+building4,Building,建筑
+building5,Building,建筑
+building6,Building,建筑
+building7,Building,建筑
+building8,Building,建筑
+building9,Building,建筑
+building10,Building,建筑
+house,House,住宅
+house1,House,住宅
+house2,House,住宅
+house3,House,住宅
+house4,House,住宅
+house5,House,住宅
+house6,House,住宅
+house7,House,住宅
+house8,House,住宅
+house9,House,住宅
+house10,House,住宅
