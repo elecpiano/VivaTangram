@@ -37,6 +37,7 @@ var GameBoardController = /** @class */ (function (_super) {
         _this.FrameController = null;
         _this.TangramColors = ["#ffda4c", "#52cad1", "#ff493a", "#3968bc", "#ff8e2f", "#ca4c89", "#55d723"];
         _this.ShowTangramFullColor = false;
+        // SHAPE_LINE_WIDTH = 5;
         _this.Difficulty = 0; // 0 is most difficult, 7 shows all shapes(without color), 8 shows all shapes with color
         _this.HintColors = ["#5faace", "#3992bc", "#287ca3", "#19678b", "#105778", "#074561", "#05354b"];
         _this.HintColorRemap = Array();
@@ -81,7 +82,6 @@ var GameBoardController = /** @class */ (function (_super) {
         this.TangramIndex = globalNode.getComponent(Global_1.default).SelectedItemIndex;
         this.NavigatedFromListView = globalNode.getComponent(Global_1.default).NavigatedFromListView;
         globalNode.getComponent(Global_1.default).NavigatedFromListView = false;
-        console.log("xxx selected tangram index : " + this.TangramIndex);
         this.LoadData();
         this.UIPanel.opacity = 0;
         if (this.animations == null) {
@@ -364,6 +364,10 @@ var GameBoardController = /** @class */ (function (_super) {
         }
         this.draw.fillColor = this.draw.fillColor.setA(alpha);
         this.draw.fill();
+        // // make each shape a bit larger, to avoid small gaps between shapes
+        // this.draw.lineWidth = this.SHAPE_LINE_WIDTH;
+        // this.draw.strokeColor = this.draw.fillColor.setA(alpha*0.2);
+        // this.draw.stroke();
     };
     GameBoardController.prototype.ShowDisplayName = function () {
         var nameCN = "";

@@ -60,6 +60,7 @@ export default class GameBoardController extends cc.Component {
     draw: cc.Graphics;
     TangramColors:string[] = ["#ffda4c","#52cad1","#ff493a","#3968bc","#ff8e2f","#ca4c89","#55d723"];
     ShowTangramFullColor:boolean = false;
+    // SHAPE_LINE_WIDTH = 5;
 
     Difficulty = 0; // 0 is most difficult, 7 shows all shapes(without color), 8 shows all shapes with color
     HintColors:string[] = ["#5faace","#3992bc","#287ca3","#19678b","#105778","#074561","#05354b"];
@@ -111,7 +112,6 @@ export default class GameBoardController extends cc.Component {
         this.TangramIndex = globalNode.getComponent(GlobalData).SelectedItemIndex;
         this.NavigatedFromListView = globalNode.getComponent(GlobalData).NavigatedFromListView;
         globalNode.getComponent(GlobalData).NavigatedFromListView = false;
-        console.log("xxx selected tangram index : " + this.TangramIndex);
 
         this.LoadData();
         this.UIPanel.opacity = 0;
@@ -461,6 +461,11 @@ export default class GameBoardController extends cc.Component {
         }
         this.draw.fillColor = this.draw.fillColor.setA(alpha);
         this.draw.fill();
+
+        // // make each shape a bit larger, to avoid small gaps between shapes
+        // this.draw.lineWidth = this.SHAPE_LINE_WIDTH;
+        // this.draw.strokeColor = this.draw.fillColor.setA(alpha*0.2);
+        // this.draw.stroke();
     }
 
     ShowDisplayName(){

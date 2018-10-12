@@ -1,57 +1,776 @@
-2018-10-11T03:02:38.995Z - normal: Load ~/.CocosCreator/settings.json
-2018-10-11T03:02:39.003Z - normal: checking language setting...
-2018-10-11T03:02:39.003Z - normal: Language: zh
-2018-10-11T03:02:40.153Z - success: protocol editor-framework registered
-2018-10-11T03:02:40.154Z - success: protocol app registered
-2018-10-11T03:02:40.154Z - success: protocol theme registered
-2018-10-11T03:02:40.154Z - success: protocol packages registered
-2018-10-11T03:02:40.155Z - success: protocol unpack registerred
-2018-10-11T03:02:40.155Z - success: protocol disable-commonjs registerred
-2018-10-11T03:02:40.281Z - normal: connected!
-2018-10-11T03:02:40.284Z - normal: Check project /Users/jason/Documents/SourceCode/VivaTangram
-2018-10-11T03:02:40.285Z - normal: Initializing Cocos2d
-2018-10-11T03:02:40.539Z - normal: Initializing Asset Database
-2018-10-11T03:02:40.576Z - success: protocol uuid registerred
-2018-10-11T03:02:40.576Z - success: protocol db registerred
-2018-10-11T03:02:40.576Z - success: protocol thumbnail registerred
-2018-10-11T03:02:40.577Z - normal: Loading editor/builtin packages
-2018-10-11T03:02:40.606Z - success: anysdk loaded
-2018-10-11T03:02:40.751Z - success: assets loaded
-2018-10-11T03:02:40.756Z - success: builder loaded
-2018-10-11T03:02:40.759Z - success: cocos-analytics loaded
-2018-10-11T03:02:40.766Z - success: console loaded
-2018-10-11T03:02:40.804Z - success: fb-instant-games loaded
-2018-10-11T03:02:40.811Z - success: hierarchy loaded
-2018-10-11T03:02:40.818Z - success: inspector loaded
-2018-10-11T03:02:40.820Z - success: keystore loaded
-2018-10-11T03:02:40.831Z - success: node-library loaded
-2018-10-11T03:02:40.833Z - success: package-asset loaded
-2018-10-11T03:02:40.836Z - success: preferences loaded
-2018-10-11T03:02:40.839Z - success: project-exporter loaded
-2018-10-11T03:02:40.856Z - success: project-importer loaded
-2018-10-11T03:02:40.859Z - success: project-settings loaded
-2018-10-11T03:02:40.864Z - success: ui-kit loaded
-2018-10-11T03:02:40.870Z - success: ui-grid loaded
-2018-10-11T03:02:40.875Z - success: scene loaded
-2018-10-11T03:02:40.877Z - success: sprite-editor loaded
-2018-10-11T03:02:40.881Z - success: store loaded
-2018-10-11T03:02:40.888Z - success: timeline loaded
-2018-10-11T03:02:40.888Z - normal: Loading builtin packages
-2018-10-11T03:02:40.893Z - success: asset-db-debugger loaded
-2018-10-11T03:02:40.894Z - success: color-picker loaded
-2018-10-11T03:02:40.898Z - success: package-manager loaded
-2018-10-11T03:02:40.904Z - success: sdkbox loaded
-2018-10-11T03:02:40.910Z - success: tester loaded
-2018-10-11T03:02:40.917Z - success: ui-kit-preview-extra loaded
-2018-10-11T03:02:40.922Z - success: ui-kit-preview loaded
-2018-10-11T03:02:40.925Z - success: ui-tree loaded
-2018-10-11T03:02:42.162Z - normal: Initializing project /Users/jason/Documents/SourceCode/VivaTangram
-2018-10-11T03:02:42.165Z - normal: Loading packages
-2018-10-11T03:02:42.169Z - normal: Watching packages
-2018-10-11T03:02:42.182Z - normal: Run Application
-2018-10-11T03:02:42.854Z - success: preview server running at http://localhost:7456
-2018-10-11T03:02:49.604Z - normal: 1.9.1
-2018-10-11T03:03:21.148Z - normal: Start building with options : {
+2018-10-12T09:20:50.085Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-12T09:20:50.090Z - normal: checking language setting...
+2018-10-12T09:20:50.090Z - normal: Language: zh
+2018-10-12T09:20:50.905Z - success: protocol editor-framework registered
+2018-10-12T09:20:50.906Z - success: protocol app registered
+2018-10-12T09:20:50.906Z - success: protocol theme registered
+2018-10-12T09:20:50.906Z - success: protocol packages registered
+2018-10-12T09:20:50.906Z - success: protocol unpack registerred
+2018-10-12T09:20:50.907Z - success: protocol disable-commonjs registerred
+2018-10-12T09:20:51.032Z - normal: connected!
+2018-10-12T09:20:51.035Z - normal: Check project /Users/jason/Documents/SourceCode/VivaTangram
+2018-10-12T09:20:51.037Z - normal: Initializing Cocos2d
+2018-10-12T09:20:51.254Z - normal: Initializing Asset Database
+2018-10-12T09:20:51.288Z - success: protocol uuid registerred
+2018-10-12T09:20:51.288Z - success: protocol db registerred
+2018-10-12T09:20:51.288Z - success: protocol thumbnail registerred
+2018-10-12T09:20:51.288Z - normal: Loading editor/builtin packages
+2018-10-12T09:20:51.310Z - success: anysdk loaded
+2018-10-12T09:20:51.435Z - success: assets loaded
+2018-10-12T09:20:51.438Z - success: builder loaded
+2018-10-12T09:20:51.441Z - success: cocos-analytics loaded
+2018-10-12T09:20:51.445Z - success: console loaded
+2018-10-12T09:20:51.478Z - success: fb-instant-games loaded
+2018-10-12T09:20:51.482Z - success: hierarchy loaded
+2018-10-12T09:20:51.487Z - success: inspector loaded
+2018-10-12T09:20:51.489Z - success: keystore loaded
+2018-10-12T09:20:51.498Z - success: node-library loaded
+2018-10-12T09:20:51.500Z - success: package-asset loaded
+2018-10-12T09:20:51.502Z - success: preferences loaded
+2018-10-12T09:20:51.505Z - success: project-exporter loaded
+2018-10-12T09:20:51.522Z - success: project-importer loaded
+2018-10-12T09:20:51.525Z - success: project-settings loaded
+2018-10-12T09:20:51.529Z - success: ui-kit loaded
+2018-10-12T09:20:51.533Z - success: ui-grid loaded
+2018-10-12T09:20:51.538Z - success: scene loaded
+2018-10-12T09:20:51.539Z - success: sprite-editor loaded
+2018-10-12T09:20:51.543Z - success: store loaded
+2018-10-12T09:20:51.549Z - success: timeline loaded
+2018-10-12T09:20:51.549Z - normal: Loading builtin packages
+2018-10-12T09:20:51.553Z - success: asset-db-debugger loaded
+2018-10-12T09:20:51.554Z - success: color-picker loaded
+2018-10-12T09:20:51.558Z - success: package-manager loaded
+2018-10-12T09:20:51.563Z - success: sdkbox loaded
+2018-10-12T09:20:51.569Z - success: tester loaded
+2018-10-12T09:20:51.572Z - success: ui-kit-preview-extra loaded
+2018-10-12T09:20:51.575Z - success: ui-kit-preview loaded
+2018-10-12T09:20:51.578Z - success: ui-tree loaded
+2018-10-12T09:20:52.596Z - normal: Initializing project /Users/jason/Documents/SourceCode/VivaTangram
+2018-10-12T09:20:52.598Z - normal: Loading packages
+2018-10-12T09:20:52.603Z - normal: Watching packages
+2018-10-12T09:20:52.613Z - normal: Run Application
+2018-10-12T09:20:53.120Z - success: preview server running at http://localhost:7456
+2018-10-12T09:20:57.893Z - normal: 1.9.1
+2018-10-12T09:21:30.843Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/jason/Documents/SourceCode/VivaTangram/build",
+  "debug": false,
+  "dest": "/Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "564f7f3b-74d5-49b3-adb5-488c5f20b0a3",
+    "327dae7f-19bb-425e-b2cb-31c3af1bc438",
+    "8175ce18-580c-4ab2-9fcd-d7f14e0d184a"
+  ],
+  "sourceMaps": false,
+  "startScene": "564f7f3b-74d5-49b3-adb5-488c5f20b0a3",
+  "template": "link",
+  "title": "VivaTangram",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx612840ace9e091dc",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "5ac73c1a-f42e-41",
+  "zipCompressJs": true,
+  "project": "/Users/jason/Documents/SourceCode/VivaTangram",
+  "projectName": "VivaTangram",
+  "debugBuildWorker": false
+}
+2018-10-12T09:21:30.847Z - normal: Building /Users/jason/Documents/SourceCode/VivaTangram
+2018-10-12T09:21:30.847Z - normal: Destination /Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link
+2018-10-12T09:21:31.205Z - normal: Delete /Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link/res/**/*,/Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link/src/*/
+2018-10-12T09:21:31.243Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:21:32.528Z - normal: Creating native cocos project to  /Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link
+2018-10-12T09:21:51.636Z - normal: Compiled project javascript file successfully
+2018-10-12T09:21:51.637Z - normal: Start building assets
+2018-10-12T09:21:51.638Z - normal: Start spawn build-worker
+2018-10-12T09:21:52.319Z - normal: Finish spawn build-worker
+2018-10-12T09:21:52.319Z - normal: Start init build-worker
+2018-10-12T09:21:54.377Z - normal: 1.9.1
+2018-10-12T09:21:54.494Z - normal: Finish init build-worker
+2018-10-12T09:21:54.494Z - normal: Start build-assets in worker
+2018-10-12T09:21:54.604Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-10-12T09:21:54.920Z - normal: Finish build-assets in worker
+2018-10-12T09:21:54.924Z - normal: Finish building assets
+2018-10-12T09:21:54.942Z - normal: Start building raw assets
+2018-10-12T09:21:54.944Z - normal: Start building plugin scripts
+2018-10-12T09:21:55.037Z - normal: Finish building raw assets
+2018-10-12T09:21:55.054Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-10-12T09:21:55.104Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:21:56.631Z - normal: Built to "/Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link" successfully
+2018-10-12T09:23:52.964Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:3912
+2018-10-12T09:27:34.409Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 699.00
+2018-10-12T09:27:34.421Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-12T09:27:34.437Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-12T09:27:34.557Z - normal: Simulator: 
+2018-10-12T09:27:34.558Z - normal: Simulator: {
+2018-10-12T09:27:34.558Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-12T09:27:34.559Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-12T09:27:34.559Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-10-12T09:27:34.559Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-12T09:27:34.560Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-12T09:27:34.560Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2018-10-12T09:27:34.560Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-10-12T09:27:34.561Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-12T09:27:34.561Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-12T09:27:34.561Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-12T09:27:34.561Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-10-12T09:27:34.562Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-12T09:27:34.562Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-12T09:27:34.562Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-12T09:27:34.563Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-12T09:27:34.563Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-10-12T09:27:34.564Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-10-12T09:27:34.564Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-12T09:27:34.565Z - normal: Simulator: }
+2018-10-12T09:27:34.565Z - normal: Simulator: 
+2018-10-12T09:27:34.566Z - normal: Simulator: 
+2018-10-12T09:27:34.566Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-10-12T09:27:34.637Z - normal: Simulator: Project Config:
+2018-10-12T09:27:34.638Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-12T09:27:34.638Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-12T09:27:34.639Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-12T09:27:34.639Z - normal: Simulator:     frame size: 960 x 640
+2018-10-12T09:27:34.640Z - normal: Simulator:     frame scale: 1.00
+2018-10-12T09:27:34.640Z - normal: Simulator:     show console: NO
+2018-10-12T09:27:34.641Z - normal: Simulator:     write debug log: NO ()
+2018-10-12T09:27:34.641Z - normal: Simulator:     listen: 
+2018-10-12T09:27:34.641Z - normal: Simulator:     debugger: none
+2018-10-12T09:27:34.642Z - normal: Simulator:     add searching path:
+2018-10-12T09:27:34.642Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:27:34.642Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-12T09:27:34.643Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:27:34.643Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-12T09:27:34.774Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-10-12T09:27:35.008Z - normal: Simulator: iShow!
+2018-10-12T09:27:35.261Z - normal: Simulator: JS: InitScene: 4.364999999999895ms
+2018-10-12T09:27:35.261Z - normal: Simulator: JS: AutoRelease: 0.17300000000000182ms
+2018-10-12T09:27:35.262Z - normal: Simulator: JS: Destroy: 0.08700000000010277ms
+2018-10-12T09:27:35.262Z - normal: Simulator: JS: AttachPersist: 0.009000000000014552ms
+2018-10-12T09:27:35.327Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:35.339Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:35.349Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:35.350Z - normal: Simulator: JS: Activate: 87.41200000000003ms
+2018-10-12T09:27:36.930Z - normal: Simulator: JS: LoadScene 327dae7f-19bb-425e-b2cb-31c3af1bc438: 57.653999999999996ms
+2018-10-12T09:27:36.934Z - normal: Simulator: JS: InitScene: 2.987999999999829ms
+2018-10-12T09:27:36.936Z - normal: Simulator: JS: AutoRelease: 0.9639999999999418ms
+2018-10-12T09:27:36.954Z - normal: Simulator: JS: Destroy: 7.270999999999731ms
+2018-10-12T09:27:36.954Z - normal: Simulator: JS: AttachPersist: 0.23100000000022192ms
+2018-10-12T09:27:36.957Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:36.958Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:36.958Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:36.989Z - normal: Simulator: JS: Activate: 26.916000000000167ms
+2018-10-12T09:27:37.649Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:591:20
+2018-10-12T09:27:37.650Z - normal: Simulator: STACK:
+2018-10-12T09:27:37.650Z - normal: Simulator: EnsureUserDataAccess@assets/Script/GameBoardController.js:591:20
+2018-10-12T09:27:37.652Z - normal: Simulator: DoThingsAfterProgress@assets/Script/GameBoardController.js:112:34
+2018-10-12T09:27:37.654Z - normal: Simulator: callback@src/jsb_polyfill.js:24740:24
+2018-10-12T09:27:39.695Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-12T09:27:39.696Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 195
+2018-10-12T09:27:39.704Z - normal: Simulator: GC end ..., (Native -> JS map) count: 147
+2018-10-12T09:27:39.706Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 147
+2018-10-12T09:27:39.720Z - normal: Simulator: GC end ..., (Native -> JS map) count: 147
+2018-10-12T09:27:39.721Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 147
+2018-10-12T09:27:39.721Z - normal: Simulator: GC end ..., (Native -> JS map) count: 147
+2018-10-12T09:27:39.755Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-10-12T09:27:39.755Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-10-12T09:27:39.755Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-10-12T09:27:39.756Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-12T09:27:41.771Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 699.00
+2018-10-12T09:27:41.775Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-12T09:27:41.776Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-12T09:27:41.903Z - normal: Simulator: 
+2018-10-12T09:27:41.904Z - normal: Simulator: {
+2018-10-12T09:27:41.907Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-12T09:27:41.908Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-12T09:27:41.908Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-10-12T09:27:41.908Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-12T09:27:41.909Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-12T09:27:41.910Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2018-10-12T09:27:41.911Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-10-12T09:27:41.912Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-12T09:27:41.912Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-12T09:27:41.913Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-12T09:27:41.913Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-10-12T09:27:41.913Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-12T09:27:41.914Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-12T09:27:41.914Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-12T09:27:41.915Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-12T09:27:41.915Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-10-12T09:27:41.915Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-10-12T09:27:41.916Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-12T09:27:41.916Z - normal: Simulator: }
+2018-10-12T09:27:41.917Z - normal: Simulator: 
+2018-10-12T09:27:41.917Z - normal: Simulator: 
+2018-10-12T09:27:41.918Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-10-12T09:27:41.934Z - normal: Simulator: Project Config:
+2018-10-12T09:27:41.935Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-12T09:27:41.935Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-12T09:27:41.936Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-12T09:27:41.936Z - normal: Simulator:     frame size: 960 x 640
+2018-10-12T09:27:41.937Z - normal: Simulator:     frame scale: 1.00
+2018-10-12T09:27:41.938Z - normal: Simulator:     show console: NO
+2018-10-12T09:27:41.939Z - normal: Simulator:     write debug log: NO ()
+2018-10-12T09:27:41.940Z - normal: Simulator:     listen: 
+2018-10-12T09:27:41.941Z - normal: Simulator:     debugger: none
+2018-10-12T09:27:41.942Z - normal: Simulator:     add searching path:
+2018-10-12T09:27:41.942Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:27:41.943Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-12T09:27:41.943Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:27:41.943Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-12T09:27:42.052Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-10-12T09:27:42.335Z - normal: Simulator: iShow!
+2018-10-12T09:27:42.577Z - normal: Simulator: JS: InitScene: 1.3269999999999982ms
+2018-10-12T09:27:42.578Z - normal: Simulator: JS: AutoRelease: 0.12999999999999545ms
+2018-10-12T09:27:42.578Z - normal: Simulator: JS: Destroy: 0.07200000000000273ms
+2018-10-12T09:27:42.579Z - normal: Simulator: JS: AttachPersist: 0.007000000000061846ms
+2018-10-12T09:27:42.640Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:42.649Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:42.660Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:42.662Z - normal: Simulator: JS: Activate: 80.81600000000003ms
+2018-10-12T09:27:44.294Z - normal: Simulator: JS: LoadScene 327dae7f-19bb-425e-b2cb-31c3af1bc438: 52.48500000000013ms
+2018-10-12T09:27:44.297Z - normal: Simulator: JS: InitScene: 2.8890000000001237ms
+2018-10-12T09:27:44.299Z - normal: Simulator: JS: AutoRelease: 0.22599999999965803ms
+2018-10-12T09:27:44.311Z - normal: Simulator: JS: Destroy: 6.949000000000069ms
+2018-10-12T09:27:44.311Z - normal: Simulator: JS: AttachPersist: 0.34900000000016007ms
+2018-10-12T09:27:44.312Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:44.315Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:44.321Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:44.343Z - normal: Simulator: JS: Activate: 35.32600000000002ms
+2018-10-12T09:27:45.009Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:591:20
+2018-10-12T09:27:45.010Z - normal: Simulator: STACK:
+2018-10-12T09:27:45.010Z - normal: Simulator: EnsureUserDataAccess@assets/Script/GameBoardController.js:591:20
+2018-10-12T09:27:45.010Z - normal: Simulator: DoThingsAfterProgress@assets/Script/GameBoardController.js:112:34
+2018-10-12T09:27:45.011Z - normal: Simulator: callback@src/jsb_polyfill.js:24740:24
+2018-10-12T09:27:46.110Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-12T09:27:46.110Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 184
+2018-10-12T09:27:46.117Z - normal: Simulator: GC end ..., (Native -> JS map) count: 147
+2018-10-12T09:27:46.118Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 147
+2018-10-12T09:27:46.132Z - normal: Simulator: GC end ..., (Native -> JS map) count: 147
+2018-10-12T09:27:46.133Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 147
+2018-10-12T09:27:46.134Z - normal: Simulator: GC end ..., (Native -> JS map) count: 147
+2018-10-12T09:27:46.215Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-10-12T09:27:46.217Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-10-12T09:27:46.218Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-10-12T09:27:46.220Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-12T09:27:47.233Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 699.00
+2018-10-12T09:27:47.237Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-12T09:27:47.254Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-12T09:27:47.401Z - normal: Simulator: 
+2018-10-12T09:27:47.402Z - normal: Simulator: {
+2018-10-12T09:27:47.402Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-12T09:27:47.404Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-12T09:27:47.404Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-10-12T09:27:47.405Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-12T09:27:47.406Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-12T09:27:47.406Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2018-10-12T09:27:47.407Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-10-12T09:27:47.408Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-12T09:27:47.408Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-12T09:27:47.409Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-12T09:27:47.409Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-10-12T09:27:47.410Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-12T09:27:47.410Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-12T09:27:47.412Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-12T09:27:47.413Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-12T09:27:47.414Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-10-12T09:27:47.414Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-10-12T09:27:47.414Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-12T09:27:47.415Z - normal: Simulator: }
+2018-10-12T09:27:47.415Z - normal: Simulator: 
+2018-10-12T09:27:47.415Z - normal: Simulator: 
+2018-10-12T09:27:47.416Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-10-12T09:27:47.465Z - normal: Simulator: Project Config:
+2018-10-12T09:27:47.466Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-12T09:27:47.467Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-12T09:27:47.467Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-12T09:27:47.467Z - normal: Simulator:     frame size: 960 x 640
+2018-10-12T09:27:47.468Z - normal: Simulator:     frame scale: 1.00
+2018-10-12T09:27:47.468Z - normal: Simulator:     show console: NO
+2018-10-12T09:27:47.469Z - normal: Simulator:     write debug log: NO ()
+2018-10-12T09:27:47.469Z - normal: Simulator:     listen: 
+2018-10-12T09:27:47.472Z - normal: Simulator:     debugger: none
+2018-10-12T09:27:47.472Z - normal: Simulator:     add searching path:
+2018-10-12T09:27:47.473Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:27:47.473Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-12T09:27:47.474Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:27:47.474Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-12T09:27:47.567Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-10-12T09:27:47.820Z - normal: Simulator: iShow!
+2018-10-12T09:27:48.093Z - normal: Simulator: JS: InitScene: 3.411999999999921ms
+2018-10-12T09:27:48.094Z - normal: Simulator: JS: AutoRelease: 0.1570000000000391ms
+2018-10-12T09:27:48.094Z - normal: Simulator: JS: Destroy: 0.07200000000000273ms
+2018-10-12T09:27:48.095Z - normal: Simulator: JS: AttachPersist: 0.01999999999998181ms
+2018-10-12T09:27:48.152Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:48.167Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:48.185Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:27:48.186Z - normal: Simulator: JS: Activate: 85.42999999999995ms
+2018-10-12T09:27:58.169Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-12T09:27:58.170Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 138
+2018-10-12T09:27:58.177Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:27:58.177Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 50
+2018-10-12T09:27:58.190Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:27:58.190Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 50
+2018-10-12T09:27:58.191Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:27:58.199Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-10-12T09:27:58.200Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-10-12T09:27:58.200Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-10-12T09:27:58.201Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-12T09:28:04.699Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 699.00
+2018-10-12T09:28:04.702Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-12T09:28:04.713Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-12T09:28:04.863Z - normal: Simulator: 
+2018-10-12T09:28:04.864Z - normal: Simulator: {
+2018-10-12T09:28:04.865Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-12T09:28:04.865Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-12T09:28:04.866Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-10-12T09:28:04.866Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-12T09:28:04.866Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-12T09:28:04.867Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2018-10-12T09:28:04.868Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-10-12T09:28:04.868Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-12T09:28:04.868Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-12T09:28:04.868Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-12T09:28:04.869Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-10-12T09:28:04.869Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-12T09:28:04.869Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-12T09:28:04.870Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-12T09:28:04.870Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-12T09:28:04.870Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-10-12T09:28:04.870Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-10-12T09:28:04.871Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-12T09:28:04.871Z - normal: Simulator: }
+2018-10-12T09:28:04.871Z - normal: Simulator: 
+2018-10-12T09:28:04.871Z - normal: Simulator: 
+2018-10-12T09:28:04.872Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-10-12T09:28:04.910Z - normal: Simulator: Project Config:
+2018-10-12T09:28:04.911Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-12T09:28:04.911Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-12T09:28:04.912Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-12T09:28:04.913Z - normal: Simulator:     frame size: 960 x 640
+2018-10-12T09:28:04.914Z - normal: Simulator:     frame scale: 1.00
+2018-10-12T09:28:04.914Z - normal: Simulator:     show console: NO
+2018-10-12T09:28:04.916Z - normal: Simulator:     write debug log: NO ()
+2018-10-12T09:28:04.917Z - normal: Simulator:     listen: 
+2018-10-12T09:28:04.917Z - normal: Simulator:     debugger: none
+2018-10-12T09:28:04.918Z - normal: Simulator:     add searching path:
+2018-10-12T09:28:04.918Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:28:04.919Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-12T09:28:04.920Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:28:04.920Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-12T09:28:05.002Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-10-12T09:28:05.232Z - normal: Simulator: iShow!
+2018-10-12T09:28:05.460Z - normal: Simulator: JS: InitScene: 1.4189999999999827ms
+2018-10-12T09:28:05.460Z - normal: Simulator: JS: AutoRelease: 0.15499999999997272ms
+2018-10-12T09:28:05.461Z - normal: Simulator: JS: Destroy: 0.09800000000007003ms
+2018-10-12T09:28:05.462Z - normal: Simulator: JS: AttachPersist: 0.007999999999924512ms
+2018-10-12T09:28:05.513Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:05.530Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:05.554Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:05.555Z - normal: Simulator: JS: Activate: 80.35300000000007ms
+2018-10-12T09:28:14.765Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-12T09:28:14.765Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 162
+2018-10-12T09:28:14.773Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:28:14.774Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 50
+2018-10-12T09:28:14.784Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:28:14.785Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 50
+2018-10-12T09:28:14.785Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:28:14.797Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-10-12T09:28:14.797Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-10-12T09:28:14.797Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-10-12T09:28:14.802Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-12T09:28:18.447Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 699.00
+2018-10-12T09:28:18.448Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-12T09:28:18.454Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-12T09:28:18.587Z - normal: Simulator: 
+2018-10-12T09:28:18.587Z - normal: Simulator: {
+2018-10-12T09:28:18.587Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-12T09:28:18.588Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-12T09:28:18.588Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-10-12T09:28:18.588Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-12T09:28:18.589Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-12T09:28:18.589Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2018-10-12T09:28:18.589Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-10-12T09:28:18.590Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-12T09:28:18.590Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-12T09:28:18.590Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-12T09:28:18.591Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-10-12T09:28:18.591Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-12T09:28:18.591Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-12T09:28:18.592Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-12T09:28:18.592Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-12T09:28:18.592Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-10-12T09:28:18.592Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-10-12T09:28:18.593Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-12T09:28:18.593Z - normal: Simulator: }
+2018-10-12T09:28:18.593Z - normal: Simulator: 
+2018-10-12T09:28:18.594Z - normal: Simulator: 
+2018-10-12T09:28:18.594Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-10-12T09:28:18.635Z - normal: Simulator: Project Config:
+2018-10-12T09:28:18.636Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-12T09:28:18.636Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-12T09:28:18.637Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-12T09:28:18.638Z - normal: Simulator:     frame size: 960 x 640
+2018-10-12T09:28:18.638Z - normal: Simulator:     frame scale: 1.00
+2018-10-12T09:28:18.640Z - normal: Simulator:     show console: NO
+2018-10-12T09:28:18.641Z - normal: Simulator:     write debug log: NO ()
+2018-10-12T09:28:18.641Z - normal: Simulator:     listen: 
+2018-10-12T09:28:18.642Z - normal: Simulator:     debugger: none
+2018-10-12T09:28:18.643Z - normal: Simulator:     add searching path:
+2018-10-12T09:28:18.643Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:28:18.643Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-12T09:28:18.644Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:28:18.654Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-12T09:28:18.741Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-10-12T09:28:18.967Z - normal: Simulator: iShow!
+2018-10-12T09:28:19.198Z - normal: Simulator: JS: InitScene: 1.3910000000000764ms
+2018-10-12T09:28:19.198Z - normal: Simulator: JS: AutoRelease: 0.1069999999999709ms
+2018-10-12T09:28:19.199Z - normal: Simulator: JS: Destroy: 0.05199999999990723ms
+2018-10-12T09:28:19.199Z - normal: Simulator: JS: AttachPersist: 0.004000000000019099ms
+2018-10-12T09:28:19.249Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:19.264Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:19.266Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:19.269Z - normal: Simulator: JS: Activate: 70.70999999999992ms
+2018-10-12T09:28:22.868Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-12T09:28:22.868Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 105
+2018-10-12T09:28:22.875Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:28:22.875Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 50
+2018-10-12T09:28:22.888Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:28:22.888Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 50
+2018-10-12T09:28:22.890Z - normal: Simulator: GC end ..., (Native -> JS map) count: 50
+2018-10-12T09:28:23.003Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-10-12T09:28:23.004Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-10-12T09:28:23.005Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-10-12T09:28:23.005Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-12T09:28:39.525Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 699.00
+2018-10-12T09:28:39.526Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-12T09:28:39.532Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-12T09:28:39.669Z - normal: Simulator: 
+2018-10-12T09:28:39.669Z - normal: Simulator: {
+2018-10-12T09:28:39.670Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-12T09:28:39.670Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-12T09:28:39.671Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-10-12T09:28:39.672Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-12T09:28:39.672Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-12T09:28:39.673Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2018-10-12T09:28:39.673Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-10-12T09:28:39.673Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-12T09:28:39.674Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-12T09:28:39.674Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-12T09:28:39.675Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-10-12T09:28:39.675Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-12T09:28:39.675Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-12T09:28:39.676Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-12T09:28:39.676Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-12T09:28:39.676Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-10-12T09:28:39.677Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-10-12T09:28:39.677Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-12T09:28:39.677Z - normal: Simulator: }
+2018-10-12T09:28:39.678Z - normal: Simulator: 
+2018-10-12T09:28:39.678Z - normal: Simulator: 
+2018-10-12T09:28:39.678Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-10-12T09:28:39.720Z - normal: Simulator: Project Config:
+2018-10-12T09:28:39.721Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-12T09:28:39.731Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-12T09:28:39.731Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-12T09:28:39.732Z - normal: Simulator:     frame size: 960 x 640
+2018-10-12T09:28:39.732Z - normal: Simulator:     frame scale: 1.00
+2018-10-12T09:28:39.732Z - normal: Simulator:     show console: NO
+2018-10-12T09:28:39.733Z - normal: Simulator:     write debug log: NO ()
+2018-10-12T09:28:39.733Z - normal: Simulator:     listen: 
+2018-10-12T09:28:39.733Z - normal: Simulator:     debugger: none
+2018-10-12T09:28:39.734Z - normal: Simulator:     add searching path:
+2018-10-12T09:28:39.734Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:28:39.735Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-12T09:28:39.735Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:28:39.735Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-12T09:28:39.828Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-10-12T09:28:40.073Z - normal: Simulator: iShow!
+2018-10-12T09:28:40.310Z - normal: Simulator: JS: InitScene: 1.3410000000000082ms
+2018-10-12T09:28:40.311Z - normal: Simulator: JS: AutoRelease: 0.11000000000001364ms
+2018-10-12T09:28:40.311Z - normal: Simulator: JS: Destroy: 0.05700000000001637ms
+2018-10-12T09:28:40.311Z - normal: Simulator: JS: AttachPersist: 0.0049999999999954525ms
+2018-10-12T09:28:40.369Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:40.387Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:40.408Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:40.414Z - normal: Simulator: JS: Activate: 85.21299999999997ms
+2018-10-12T09:28:53.866Z - normal: Simulator: JS: LoadScene 327dae7f-19bb-425e-b2cb-31c3af1bc438: 56.711999999999534ms
+2018-10-12T09:28:53.881Z - normal: Simulator: JS: InitScene: 4.765999999999622ms
+2018-10-12T09:28:53.882Z - normal: Simulator: JS: AutoRelease: 0.27000000000043656ms
+2018-10-12T09:28:53.882Z - normal: Simulator: JS: Destroy: 7.182999999999083ms
+2018-10-12T09:28:53.883Z - normal: Simulator: JS: AttachPersist: 0.26599999999962165ms
+2018-10-12T09:28:53.887Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:53.892Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:53.914Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:53.916Z - normal: Simulator: JS: Activate: 29.1299999999992ms
+2018-10-12T09:28:54.582Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:591:20
+2018-10-12T09:28:54.582Z - normal: Simulator: STACK:
+2018-10-12T09:28:54.583Z - normal: Simulator: EnsureUserDataAccess@assets/Script/GameBoardController.js:591:20
+2018-10-12T09:28:54.583Z - normal: Simulator: DoThingsAfterProgress@assets/Script/GameBoardController.js:112:34
+2018-10-12T09:28:54.583Z - normal: Simulator: callback@src/jsb_polyfill.js:24740:24
+2018-10-12T09:28:58.004Z - normal: Simulator: JS: LoadScene 8175ce18-580c-4ab2-9fcd-d7f14e0d184a: 41.09799999999814ms
+2018-10-12T09:28:58.005Z - normal: Simulator: JS: InitScene: 1.0059999999975844ms
+2018-10-12T09:28:58.006Z - normal: Simulator: JS: AutoRelease: 0.052999999999883585ms
+2018-10-12T09:28:58.019Z - normal: Simulator: JS: Destroy: 10.589999999996508ms
+2018-10-12T09:28:58.020Z - normal: Simulator: JS: AttachPersist: 0.08000000000174623ms
+2018-10-12T09:28:58.020Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:28:58.055Z - normal: Simulator: JS: Activate: 37.727999999999156ms
+2018-10-12T09:29:00.599Z - normal: Simulator: JS: xxx item tap : 13
+2018-10-12T09:29:00.624Z - normal: Simulator: JS: LoadScene 327dae7f-19bb-425e-b2cb-31c3af1bc438: 8.937000000001717ms
+2018-10-12T09:29:00.624Z - normal: Simulator: JS: InitScene: 5.865000000001601ms
+2018-10-12T09:29:00.625Z - normal: Simulator: JS: AutoRelease: 0.07999999999810825ms
+2018-10-12T09:29:00.636Z - normal: Simulator: JS: Destroy: 21.718000000000757ms
+2018-10-12T09:29:00.637Z - normal: Simulator: JS: AttachPersist: 0.8070000000006985ms
+2018-10-12T09:29:00.641Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:00.660Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:00.660Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:00.660Z - normal: Simulator: JS: Activate: 22.464999999996508ms
+2018-10-12T09:29:01.334Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:591:20
+2018-10-12T09:29:01.335Z - normal: Simulator: STACK:
+2018-10-12T09:29:01.335Z - normal: Simulator: EnsureUserDataAccess@assets/Script/GameBoardController.js:591:20
+2018-10-12T09:29:01.335Z - normal: Simulator: DoThingsAfterProgress@assets/Script/GameBoardController.js:112:34
+2018-10-12T09:29:01.336Z - normal: Simulator: callback@src/jsb_polyfill.js:24740:24
+2018-10-12T09:29:03.828Z - normal: Simulator: JS: xxx - unbusy at StartDraw
+2018-10-12T09:29:03.839Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:03.840Z - normal: Simulator: STACK:
+2018-10-12T09:29:03.840Z - normal: Simulator: SaveUserData@assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:03.840Z - normal: Simulator: TapDiffMenu@assets/Script/GameBoardController.js:530:30
+2018-10-12T09:29:03.841Z - normal: Simulator: emit@src/jsb_polyfill.js:5864:24
+2018-10-12T09:29:03.841Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5849:25
+2018-10-12T09:29:03.842Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5431:49
+2018-10-12T09:29:03.842Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-10-12T09:29:03.842Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10906:109
+2018-10-12T09:29:03.842Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11023:25
+2018-10-12T09:29:03.842Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-10-12T09:29:03.843Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-10-12T09:29:03.843Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-10-12T09:29:04.914Z - normal: Simulator: JS: xxx unvisited list : 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311
+2018-10-12T09:29:04.938Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:04.938Z - normal: Simulator: STACK:
+2018-10-12T09:29:04.939Z - normal: Simulator: SaveUserData@assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:04.939Z - normal: Simulator: ShowTangram@assets/Script/GameBoardController.js:209:26
+2018-10-12T09:29:04.939Z - normal: Simulator: ShowNextTangram@assets/Script/GameBoardController.js:432:25
+2018-10-12T09:29:04.940Z - normal: Simulator: emit@src/jsb_polyfill.js:5864:24
+2018-10-12T09:29:04.940Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5849:25
+2018-10-12T09:29:04.940Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5431:49
+2018-10-12T09:29:04.941Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-10-12T09:29:04.941Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10906:109
+2018-10-12T09:29:04.941Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11023:25
+2018-10-12T09:29:04.942Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-10-12T09:29:04.942Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-10-12T09:29:04.942Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-10-12T09:29:05.446Z - normal: Simulator: JS: xxx - unbusy at StartDraw
+2018-10-12T09:29:16.193Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-12T09:29:16.193Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 359
+2018-10-12T09:29:16.199Z - normal: Simulator: GC end ..., (Native -> JS map) count: 152
+2018-10-12T09:29:16.213Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 152
+2018-10-12T09:29:16.214Z - normal: Simulator: GC end ..., (Native -> JS map) count: 152
+2018-10-12T09:29:16.214Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 152
+2018-10-12T09:29:16.214Z - normal: Simulator: GC end ..., (Native -> JS map) count: 152
+2018-10-12T09:29:16.337Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-10-12T09:29:16.338Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-10-12T09:29:16.339Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-10-12T09:29:16.339Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-12T09:29:22.267Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 699.00
+2018-10-12T09:29:22.287Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-12T09:29:22.289Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-12T09:29:22.385Z - normal: Simulator: 
+2018-10-12T09:29:22.386Z - normal: Simulator: {
+2018-10-12T09:29:22.386Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-12T09:29:22.387Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-12T09:29:22.421Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-10-12T09:29:22.421Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-12T09:29:22.422Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-12T09:29:22.424Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2018-10-12T09:29:22.424Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-10-12T09:29:22.425Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-12T09:29:22.425Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-12T09:29:22.426Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-12T09:29:22.427Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-10-12T09:29:22.427Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-12T09:29:22.428Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-12T09:29:22.428Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-12T09:29:22.428Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-12T09:29:22.429Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-10-12T09:29:22.429Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-10-12T09:29:22.429Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-12T09:29:22.430Z - normal: Simulator: }
+2018-10-12T09:29:22.430Z - normal: Simulator: 
+2018-10-12T09:29:22.430Z - normal: Simulator: 
+2018-10-12T09:29:22.431Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-10-12T09:29:22.467Z - normal: Simulator: Project Config:
+2018-10-12T09:29:22.468Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-12T09:29:22.469Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-12T09:29:22.469Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-12T09:29:22.469Z - normal: Simulator:     frame size: 960 x 640
+2018-10-12T09:29:22.470Z - normal: Simulator:     frame scale: 1.00
+2018-10-12T09:29:22.470Z - normal: Simulator:     show console: NO
+2018-10-12T09:29:22.470Z - normal: Simulator:     write debug log: NO ()
+2018-10-12T09:29:22.471Z - normal: Simulator:     listen: 
+2018-10-12T09:29:22.471Z - normal: Simulator:     debugger: none
+2018-10-12T09:29:22.471Z - normal: Simulator:     add searching path:
+2018-10-12T09:29:22.479Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:29:22.480Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-12T09:29:22.480Z - normal: Simulator: ------------------------------------------------
+2018-10-12T09:29:22.480Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-12T09:29:22.568Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-10-12T09:29:22.813Z - normal: Simulator: iShow!
+2018-10-12T09:29:23.045Z - normal: Simulator: JS: InitScene: 1.4309999999999263ms
+2018-10-12T09:29:23.045Z - normal: Simulator: JS: AutoRelease: 0.11400000000003274ms
+2018-10-12T09:29:23.046Z - normal: Simulator: JS: Destroy: 0.06299999999998818ms
+2018-10-12T09:29:23.046Z - normal: Simulator: JS: AttachPersist: 0.009000000000014552ms
+2018-10-12T09:29:23.099Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:23.115Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:23.145Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:23.145Z - normal: Simulator: JS: Activate: 82.09399999999994ms
+2018-10-12T09:29:26.068Z - normal: Simulator: JS: LoadScene 327dae7f-19bb-425e-b2cb-31c3af1bc438: 53.88099999999986ms
+2018-10-12T09:29:26.071Z - normal: Simulator: JS: InitScene: 3.4770000000003165ms
+2018-10-12T09:29:26.073Z - normal: Simulator: JS: AutoRelease: 0.22499999999990905ms
+2018-10-12T09:29:26.088Z - normal: Simulator: JS: Destroy: 7.871000000000095ms
+2018-10-12T09:29:26.089Z - normal: Simulator: JS: AttachPersist: 0.2669999999998254ms
+2018-10-12T09:29:26.090Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:26.093Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:26.096Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:26.121Z - normal: Simulator: JS: Activate: 32.11299999999983ms
+2018-10-12T09:29:26.785Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:591:20
+2018-10-12T09:29:26.785Z - normal: Simulator: STACK:
+2018-10-12T09:29:26.785Z - normal: Simulator: EnsureUserDataAccess@assets/Script/GameBoardController.js:591:20
+2018-10-12T09:29:26.786Z - normal: Simulator: DoThingsAfterProgress@assets/Script/GameBoardController.js:112:34
+2018-10-12T09:29:26.786Z - normal: Simulator: callback@src/jsb_polyfill.js:24740:24
+2018-10-12T09:29:28.593Z - normal: Simulator: JS: xxx unvisited list : 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311
+2018-10-12T09:29:28.606Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:28.606Z - normal: Simulator: STACK:
+2018-10-12T09:29:28.607Z - normal: Simulator: SaveUserData@assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:28.608Z - normal: Simulator: ShowTangram@assets/Script/GameBoardController.js:209:26
+2018-10-12T09:29:28.609Z - normal: Simulator: ShowNextTangram@assets/Script/GameBoardController.js:432:25
+2018-10-12T09:29:28.609Z - normal: Simulator: emit@src/jsb_polyfill.js:5864:24
+2018-10-12T09:29:28.610Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5849:25
+2018-10-12T09:29:28.610Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5431:49
+2018-10-12T09:29:28.610Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-10-12T09:29:28.611Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10906:109
+2018-10-12T09:29:28.611Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11023:25
+2018-10-12T09:29:28.612Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-10-12T09:29:28.612Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-10-12T09:29:28.613Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-10-12T09:29:29.095Z - normal: Simulator: JS: xxx - unbusy at StartDraw
+2018-10-12T09:29:29.908Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:29.909Z - normal: Simulator: STACK:
+2018-10-12T09:29:29.909Z - normal: Simulator: SaveUserData@assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:29.911Z - normal: Simulator: ShowTangram@assets/Script/GameBoardController.js:209:26
+2018-10-12T09:29:29.911Z - normal: Simulator: ShowNextTangram@assets/Script/GameBoardController.js:432:25
+2018-10-12T09:29:29.912Z - normal: Simulator: emit@src/jsb_polyfill.js:5864:24
+2018-10-12T09:29:29.912Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5849:25
+2018-10-12T09:29:29.912Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5431:49
+2018-10-12T09:29:29.913Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-10-12T09:29:29.913Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10906:109
+2018-10-12T09:29:29.913Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11023:25
+2018-10-12T09:29:29.913Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-10-12T09:29:29.913Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-10-12T09:29:29.913Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-10-12T09:29:30.397Z - normal: Simulator: JS: xxx - unbusy at StartDraw
+2018-10-12T09:29:30.648Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:30.649Z - normal: Simulator: STACK:
+2018-10-12T09:29:30.650Z - normal: Simulator: SaveUserData@assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:30.650Z - normal: Simulator: ShowTangram@assets/Script/GameBoardController.js:209:26
+2018-10-12T09:29:30.650Z - normal: Simulator: ShowNextTangram@assets/Script/GameBoardController.js:432:25
+2018-10-12T09:29:30.650Z - normal: Simulator: emit@src/jsb_polyfill.js:5864:24
+2018-10-12T09:29:30.651Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5849:25
+2018-10-12T09:29:30.651Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5431:49
+2018-10-12T09:29:30.651Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-10-12T09:29:30.651Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10906:109
+2018-10-12T09:29:30.652Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11023:25
+2018-10-12T09:29:30.652Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-10-12T09:29:30.652Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-10-12T09:29:30.652Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-10-12T09:29:31.161Z - normal: Simulator: JS: xxx - unbusy at StartDraw
+2018-10-12T09:29:35.226Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:35.232Z - normal: Simulator: STACK:
+2018-10-12T09:29:35.233Z - normal: Simulator: SaveUserData@assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:35.234Z - normal: Simulator: ShowTangram@assets/Script/GameBoardController.js:209:26
+2018-10-12T09:29:35.234Z - normal: Simulator: ShowNextTangram@assets/Script/GameBoardController.js:432:25
+2018-10-12T09:29:35.235Z - normal: Simulator: emit@src/jsb_polyfill.js:5864:24
+2018-10-12T09:29:35.235Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5849:25
+2018-10-12T09:29:35.235Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5431:49
+2018-10-12T09:29:35.235Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-10-12T09:29:35.235Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10906:109
+2018-10-12T09:29:35.236Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11023:25
+2018-10-12T09:29:35.236Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-10-12T09:29:35.237Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-10-12T09:29:35.237Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-10-12T09:29:35.714Z - normal: Simulator: JS: xxx - unbusy at StartDraw
+2018-10-12T09:29:35.892Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: wx, location: assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:35.893Z - normal: Simulator: STACK:
+2018-10-12T09:29:35.893Z - normal: Simulator: SaveUserData@assets/Script/GameBoardController.js:610:20
+2018-10-12T09:29:35.894Z - normal: Simulator: ShowTangram@assets/Script/GameBoardController.js:209:26
+2018-10-12T09:29:35.895Z - normal: Simulator: ShowNextTangram@assets/Script/GameBoardController.js:432:25
+2018-10-12T09:29:35.896Z - normal: Simulator: emit@src/jsb_polyfill.js:5864:24
+2018-10-12T09:29:35.896Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5849:25
+2018-10-12T09:29:35.896Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5431:49
+2018-10-12T09:29:35.897Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-10-12T09:29:35.897Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10906:109
+2018-10-12T09:29:35.897Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11023:25
+2018-10-12T09:29:35.898Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-10-12T09:29:35.898Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-10-12T09:29:35.899Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-10-12T09:29:36.380Z - normal: Simulator: JS: xxx - unbusy at StartDraw
+2018-10-12T09:29:37.614Z - normal: Simulator: JS: LoadScene 8175ce18-580c-4ab2-9fcd-d7f14e0d184a: 46.39099999999962ms
+2018-10-12T09:29:37.617Z - normal: Simulator: JS: InitScene: 2.359999999998763ms
+2018-10-12T09:29:37.617Z - normal: Simulator: JS: AutoRelease: 0.2070000000003347ms
+2018-10-12T09:29:37.625Z - normal: Simulator: JS: Destroy: 7.584000000000742ms
+2018-10-12T09:29:37.625Z - normal: Simulator: JS: AttachPersist: 0.06500000000050932ms
+2018-10-12T09:29:37.628Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-10-12T09:29:37.657Z - normal: Simulator: JS: Activate: 31.965000000000146ms
+2018-10-12T09:29:40.776Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-12T09:29:40.776Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 514
+2018-10-12T09:29:40.798Z - normal: Simulator: GC end ..., (Native -> JS map) count: 206
+2018-10-12T09:29:40.800Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 206
+2018-10-12T09:29:40.802Z - normal: Simulator: GC end ..., (Native -> JS map) count: 206
+2018-10-12T09:29:40.803Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 206
+2018-10-12T09:29:40.805Z - normal: Simulator: GC end ..., (Native -> JS map) count: 206
+2018-10-12T09:29:40.930Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-10-12T09:29:40.931Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-10-12T09:29:40.946Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-10-12T09:29:40.947Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-12T09:30:12.369Z - normal: Start building with options : {
   "androidStudio": true,
   "apiLevel": "",
   "appABIs": [],
@@ -91,11 +810,12 @@
   },
   "renderMode": "0",
   "scenes": [
+    "564f7f3b-74d5-49b3-adb5-488c5f20b0a3",
     "327dae7f-19bb-425e-b2cb-31c3af1bc438",
     "8175ce18-580c-4ab2-9fcd-d7f14e0d184a"
   ],
   "sourceMaps": false,
-  "startScene": "327dae7f-19bb-425e-b2cb-31c3af1bc438",
+  "startScene": "564f7f3b-74d5-49b3-adb5-488c5f20b0a3",
   "template": "link",
   "title": "VivaTangram",
   "useDebugKeystore": true,
@@ -114,34 +834,136 @@
   "projectName": "VivaTangram",
   "debugBuildWorker": false
 }
-2018-10-11T03:03:21.152Z - normal: Building /Users/jason/Documents/SourceCode/VivaTangram
-2018-10-11T03:03:21.152Z - normal: Destination /Users/jason/Documents/SourceCode/VivaTangram/build/wechatgame
-2018-10-11T03:03:21.562Z - normal: Delete /Users/jason/Documents/SourceCode/VivaTangram/build/wechatgame/**/*
-2018-10-11T03:03:24.858Z - normal: Compiled project javascript file successfully
-2018-10-11T03:03:24.859Z - normal: Start building assets
-2018-10-11T03:03:24.859Z - normal: Start spawn build-worker
-2018-10-11T03:03:25.906Z - normal: Finish spawn build-worker
-2018-10-11T03:03:25.906Z - normal: Start init build-worker
-2018-10-11T03:03:28.473Z - normal: 1.9.1
-2018-10-11T03:03:28.613Z - normal: Finish init build-worker
-2018-10-11T03:03:28.613Z - normal: Start build-assets in worker
-2018-10-11T03:03:29.178Z - normal: Finish build-assets in worker
-2018-10-11T03:03:29.194Z - normal: Finish building assets
-2018-10-11T03:03:29.207Z - normal: Start building raw assets
-2018-10-11T03:03:29.209Z - normal: Start building plugin scripts
-2018-10-11T03:03:29.315Z - normal: Finish building raw assets
-2018-10-11T03:03:29.323Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2018-10-11T03:03:29.456Z - normal: Built to "/Users/jason/Documents/SourceCode/VivaTangram/build/wechatgame" successfully
-2018-10-11T03:03:30.597Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-10-11T03:03:30.597Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-10-11T03:03:31.281Z - normal: Initializing...
+2018-10-12T09:30:12.373Z - normal: Building /Users/jason/Documents/SourceCode/VivaTangram
+2018-10-12T09:30:12.373Z - normal: Destination /Users/jason/Documents/SourceCode/VivaTangram/build/wechatgame
+2018-10-12T09:30:12.375Z - normal: Delete /Users/jason/Documents/SourceCode/VivaTangram/build/wechatgame/**/*
+2018-10-12T09:30:14.900Z - normal: Compiled project javascript file successfully
+2018-10-12T09:30:14.901Z - normal: Start building assets
+2018-10-12T09:30:14.901Z - normal: Start spawn build-worker
+2018-10-12T09:30:15.577Z - normal: Finish spawn build-worker
+2018-10-12T09:30:15.577Z - normal: Start init build-worker
+2018-10-12T09:30:17.457Z - normal: 1.9.1
+2018-10-12T09:30:17.574Z - normal: Finish init build-worker
+2018-10-12T09:30:17.574Z - normal: Start build-assets in worker
+2018-10-12T09:30:18.011Z - normal: Finish build-assets in worker
+2018-10-12T09:30:18.015Z - normal: Finish building assets
+2018-10-12T09:30:18.029Z - normal: Start building raw assets
+2018-10-12T09:30:18.030Z - normal: Start building plugin scripts
+2018-10-12T09:30:18.112Z - normal: Finish building raw assets
+2018-10-12T09:30:18.118Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-10-12T09:30:18.264Z - normal: Built to "/Users/jason/Documents/SourceCode/VivaTangram/build/wechatgame" successfully
+2018-10-12T09:30:19.195Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-10-12T09:30:19.196Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-10-12T09:30:19.758Z - normal: Initializing...
 
-2018-10-11T03:03:31.287Z - normal: idePortFile: /Users/jason/Library/Application Support/微信web开发者工具/Default/.ide
+2018-10-12T09:30:19.764Z - normal: idePortFile: /Users/jason/Library/Application Support/微信web开发者工具/Default/.ide
 
-2018-10-11T03:03:31.323Z - normal: IDE server has started, listening on http://127.0.0.1:57745
+2018-10-12T09:30:19.783Z - normal: starting ide...
 
-2018-10-11T03:03:31.324Z - normal: initialization finished
+2018-10-12T09:30:23.660Z - normal: IDE server has started, listening on http://127.0.0.1:64784
 
-2018-10-11T03:03:31.541Z - normal: open IDE success
+2018-10-12T09:30:23.665Z - normal: initialization finished
 
-2018-10-11T03:05:25.656Z - info: shutdown preview server
+2018-10-12T09:30:24.114Z - normal: open IDE success
+
+2018-10-12T09:31:21.528Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/jason/Documents/SourceCode/VivaTangram/build",
+  "debug": false,
+  "dest": "/Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "564f7f3b-74d5-49b3-adb5-488c5f20b0a3",
+    "327dae7f-19bb-425e-b2cb-31c3af1bc438",
+    "8175ce18-580c-4ab2-9fcd-d7f14e0d184a"
+  ],
+  "sourceMaps": false,
+  "startScene": "564f7f3b-74d5-49b3-adb5-488c5f20b0a3",
+  "template": "link",
+  "title": "VivaTangram",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx612840ace9e091dc",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "5ac73c1a-f42e-41",
+  "zipCompressJs": true,
+  "project": "/Users/jason/Documents/SourceCode/VivaTangram",
+  "projectName": "VivaTangram",
+  "debugBuildWorker": false
+}
+2018-10-12T09:31:21.530Z - normal: Building /Users/jason/Documents/SourceCode/VivaTangram
+2018-10-12T09:31:21.531Z - normal: Destination /Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link
+2018-10-12T09:31:21.531Z - normal: Delete /Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link/res/**/*,/Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link/src/*/
+2018-10-12T09:31:21.588Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:31:25.230Z - normal: Compiled project javascript file successfully
+2018-10-12T09:31:25.230Z - normal: Start building assets
+2018-10-12T09:31:25.230Z - normal: Start spawn build-worker
+2018-10-12T09:31:25.965Z - normal: Finish spawn build-worker
+2018-10-12T09:31:25.965Z - normal: Start init build-worker
+2018-10-12T09:31:28.183Z - normal: 1.9.1
+2018-10-12T09:31:28.298Z - normal: Finish init build-worker
+2018-10-12T09:31:28.298Z - normal: Start build-assets in worker
+2018-10-12T09:31:28.418Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-10-12T09:31:28.725Z - normal: Finish build-assets in worker
+2018-10-12T09:31:28.729Z - normal: Finish building assets
+2018-10-12T09:31:28.738Z - normal: Start building raw assets
+2018-10-12T09:31:28.738Z - normal: Start building plugin scripts
+2018-10-12T09:31:28.814Z - normal: Finish building raw assets
+2018-10-12T09:31:28.822Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-10-12T09:31:28.856Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:31:30.308Z - normal: Built to "/Users/jason/Documents/SourceCode/VivaTangram/build/jsb-link" successfully
+2018-10-12T09:31:32.194Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:31:33.378Z - normal: Start to compile native project. Please wait...
+2018-10-12T09:31:33.378Z - normal: The log file path [ /Users/jason/.CocosCreator/logs/native.log ]
+2018-10-12T09:34:37.411Z - normal: Compile native project successfully.
+2018-10-12T09:34:59.457Z - normal: Start to run project
+2018-10-12T09:34:59.481Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:35:00.706Z - normal: Start to run project. Please wait...
+2018-10-12T09:35:00.706Z - normal: The log file path [ /Users/jason/.CocosCreator/logs/native.log ]
+2018-10-12T09:36:21.707Z - normal: Start to run project
+2018-10-12T09:36:21.736Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:36:23.067Z - normal: Start to run project. Please wait...
+2018-10-12T09:36:23.067Z - normal: The log file path [ /Users/jason/.CocosCreator/logs/native.log ]
+2018-10-12T09:37:07.617Z - normal: Start to run project
+2018-10-12T09:37:07.640Z - normal: Checked Python Version [2.7.10]
+2018-10-12T09:37:08.886Z - normal: Start to run project. Please wait...
+2018-10-12T09:37:08.886Z - normal: The log file path [ /Users/jason/.CocosCreator/logs/native.log ]

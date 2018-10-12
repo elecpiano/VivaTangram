@@ -40,12 +40,12 @@
     "relativePath": "prefab"
   },
   "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
-    "asset": 1538023454257,
+    "asset": 1539244472072,
     "meta": 1537603688133,
     "relativePath": "Scene"
   },
   "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
-    "asset": 1538329786898,
+    "asset": 1539244684260,
     "meta": 1537603688133,
     "relativePath": "Script"
   },
@@ -55,8 +55,8 @@
     "relativePath": "Texture"
   },
   "327dae7f-19bb-425e-b2cb-31c3af1bc438": {
-    "asset": 1539224177631,
-    "meta": 1539224177642,
+    "asset": 1539336597857,
+    "meta": 1539336597872,
     "relativePath": "Scene/GameBoard.fire"
   },
   "aea5a3c0-aeab-4a3d-ac9c-825928adda75": {
@@ -65,8 +65,8 @@
     "relativePath": "resources"
   },
   "8175ce18-580c-4ab2-9fcd-d7f14e0d184a": {
-    "asset": 1539166374713,
-    "meta": 1539166374720,
+    "asset": 1539336601369,
+    "meta": 1539336601374,
     "relativePath": "Scene/ListView.fire"
   },
   "e11c0f21-c0a4-489c-a540-ef87a415124b": {
@@ -409,9 +409,19 @@
     "meta": 1539168157923,
     "relativePath": "Script/ListViewController.ts"
   },
+  "564f7f3b-74d5-49b3-adb5-488c5f20b0a3": {
+    "asset": 1539336592276,
+    "meta": 1539336592284,
+    "relativePath": "Scene/HomeView.fire"
+  },
+  "2a092214-00ec-4cf8-902e-9445330d9c15": {
+    "asset": 1539248175130,
+    "meta": 1539248175964,
+    "relativePath": "Script/HomeViewController.ts"
+  },
   "dff6dfb2-8c76-400d-814b-a9bb618fe4fa": {
-    "asset": 1539224032020,
-    "meta": 1539224166711,
+    "asset": 1539313057692,
+    "meta": 1539313059214,
     "relativePath": "Script/GameBoardController.ts"
   }
 }
